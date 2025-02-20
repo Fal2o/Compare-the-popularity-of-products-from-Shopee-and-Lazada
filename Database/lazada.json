@@ -1,0 +1,17 @@
+{
+    "db": "LazadaTrue",
+    "collections": 9,
+    "views": 0,
+    "objects": 4604,
+    "avgObjSize": 495.2995221546481,
+    "dataSize": 2280359,
+    "storageSize": 950272,
+    "totalFreeStorageSize": 0,
+    "numExtents": 0,
+    "indexes": 9,
+    "indexSize": 274432,
+    "indexFreeStorageSize": 0,
+    "fileSize": 0,
+    "nsSizeMB": 0,
+    "ok": 1
+}

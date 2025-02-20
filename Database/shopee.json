@@ -1,0 +1,17 @@
+{
+    "db": "Shopee",
+    "collections": 9,
+    "views": 0,
+    "objects": 5070,
+    "avgObjSize": 368.12623274161734,
+    "dataSize": 1866400,
+    "storageSize": 888832,
+    "totalFreeStorageSize": 0,
+    "numExtents": 0,
+    "indexes": 9,
+    "indexSize": 335872,
+    "indexFreeStorageSize": 0,
+    "fileSize": 0,
+    "nsSizeMB": 0,
+    "ok": 1
+}
